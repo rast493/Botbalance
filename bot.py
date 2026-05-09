@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
 # ——— Настройки ———
-BOT_TOKEN = "СЮДА_ТВОЙ_ТОКЕН"  # Вставь токен от @BotFather
+BOT_TOKEN = "8755796189:AAHMgipOU_NToRmjrfypQGnaMA9Uelqq8qg"  # Вставь токен от @BotFather
 DATA_FILE = "balances.json"
 
 logging.basicConfig(level=logging.INFO)
